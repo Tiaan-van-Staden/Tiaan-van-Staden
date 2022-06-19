@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Tiaan
+- 🌍 Take a look at my CV website - https://careerday.belgiumcampus.ac.za/sites/s576467/
 - 👀 I’m interested in computers and cars
 - 🌱 I’m currently studying software engineering
 - 💞️ I’m looking to collaborate on web based projects
